@@ -1,7 +1,7 @@
 html {
   background:;
   box-sizing:;
-  font-family: ;
+  font-family: Georgia, sans-serif;
   line-height: ;
 }
 
@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
-h1, main {
+h1, p, ol {
   color: #785439;
+}
+
+{
+  font-family: Dosis, sans-serif;
 }
