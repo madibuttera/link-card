@@ -1,8 +1,8 @@
 html {
   background-color: #f0eee8;
   box-sizing:;
-  font-family: Georgia, sans-serif;
   line-height: 1.5;
+  font-family: Dosis, sans-serif;
 }
 
 *, *::before, *::after {
@@ -15,7 +15,7 @@ main {
 }
 
 .link-card {
-  background-color: #cabdb2;
+  background-color: #dcd4cd;
   margin: 0 0 1rem;
   text-decoration: none;
 }
@@ -25,18 +25,21 @@ main {
 }
 
 .link {
-  color: #f0eee8;
-  background-color:
+  color: #fff;
 }
 
 a {
   display: inline-block;
 }
 
+p, dl {
+  font-family: Georgia, sans-serif;
+}
+
 h2, p, dl {
-  color: #785439;
+  color: #512200;
 }
 
 {
-  font-family: Dosis, sans-serif;
+
 }
