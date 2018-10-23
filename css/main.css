@@ -9,6 +9,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
+h1, main {
   color: #785439;
 }
