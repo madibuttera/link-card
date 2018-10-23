@@ -1,6 +1,5 @@
 html {
   background-color: #f0eee8;
-  box-sizing:;
   line-height: 1.5;
   font-family: Dosis, sans-serif;
 }
@@ -21,7 +20,7 @@ main {
 }
 
 .link-card:hover {
-  background-color: #dcd4cd;
+  background-color: #cabdb2;
 }
 
 .link {
