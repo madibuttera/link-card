@@ -24,7 +24,14 @@ main {
 }
 
 .link {
+  border-radius: 8px;
   color: #fff;
+  background-color: #785439;
+  padding: .4em .75em .5em;
+}
+
+.link:hover {
+  background-color: #512200;
 }
 
 a {
