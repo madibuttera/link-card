@@ -1,15 +1,39 @@
 html {
-  background:;
+  background-color: #f0eee8;
   box-sizing:;
   font-family: Georgia, sans-serif;
-  line-height: ;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-h1, p, ol {
+main {
+  border-color: #9a816d;
+  text-align: center;
+}
+
+.link-card {
+  background-color: #cabdb2;
+  margin: 0 0 1rem;
+  text-decoration: none;
+}
+
+.link-card:hover {
+  background-color: #dcd4cd;
+}
+
+.link {
+  color: #f0eee8;
+  background-color:
+}
+
+a {
+  display: inline-block;
+}
+
+h2, p, dl {
   color: #785439;
 }
 
