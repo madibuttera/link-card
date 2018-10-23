@@ -10,7 +10,6 @@ html {
 
 main {
   border-color: #9a816d;
-  text-align: center;
 }
 
 .link-card {
@@ -28,6 +27,7 @@ main {
   color: #fff;
   background-color: #785439;
   padding: .4em .75em .5em;
+  font-weight: bold;
 }
 
 .link:hover {
@@ -46,6 +46,11 @@ h2, p, dl {
   color: #512200;
 }
 
-{
+h2 {
+  font-weight: bold;
+}
 
+dt, dd {
+  display: inline-block;
+  width: 45%;
 }
