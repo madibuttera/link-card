@@ -1,5 +1,7 @@
 html {
   background-color: #f0eee8;
+  box-sizing: border-box;
+  border-color: #9a816d;
   line-height: 1.5;
   font-family: Dosis, sans-serif;
 }
@@ -10,6 +12,7 @@ html {
 
 main {
   border-color: #9a816d;
+  text-align: center;
 }
 
 .link-card {
@@ -69,5 +72,6 @@ dd {
 }
 
 p {
-  font-size: 1.125rem;
+  font-size: 1rem;
+  text-align: left;
 }
