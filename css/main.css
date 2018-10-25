@@ -21,6 +21,7 @@ main {
   text-decoration: none;
   padding: .4em .75em .5em;
   border: solid 3px #9a816d;
+  border-radius: 3px;
 }
 
 .link-card:hover {
