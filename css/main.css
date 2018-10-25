@@ -21,24 +21,25 @@ main {
   text-decoration: none;
   padding: .4em .75em .5em;
   border: solid 3px #9a816d;
-  border-radius: 3px;
+  border-radius: 8px;
 }
 
 .link-card:hover {
   background-color: #cabdb2;
 }
 
-.link-card:hover .link {
+.link-card:hover .btn {
   background-color: #512200;
 }
 
-.link {
-  border-radius: 8px;
+.btn {
+  border-radius: 3px;
   color: #fff;
   background-color: #785439;
   font-weight: bold;
   padding: .4em .75em .5em;
   display: inline-block;
+  font-family: Dosis, sans-serif;
 }
 
 a {
