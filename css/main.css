@@ -36,6 +36,7 @@ main {
 
 a {
   display: inline-block;
+  text-decoration: none;
 }
 
 p, dl {
@@ -54,8 +55,19 @@ h2 {
 dt, dd {
   display: inline-block;
   width: 45%;
+  margin: 0;
+  text-align: left;
+  font-size: .875rem;
 }
 
 .link-card h2 {
+  font-size: 1.5rem;
+}
 
+dd {
+  font-style: italic;
+}
+
+p {
+  font-size: 1.125rem;
 }
