@@ -19,9 +19,10 @@ main {
   background-color: #dcd4cd;
   margin: 0 0 1rem;
   text-decoration: none;
-  padding: 1em;
+  padding: 1rem;
   border: solid 3px #9a816d;
   border-radius: 8px;
+  padding-bottom: .3em;
 }
 
 .link-card:hover {
