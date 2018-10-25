@@ -13,6 +13,8 @@ html {
 main {
   border-color: #9a816d;
   text-align: center;
+  background-color: #dcd4cd;
+  padding-bottom: 1rem;
 }
 
 .link-card {
@@ -49,6 +51,7 @@ p, dl {
 h2, p, dl {
   color: #512200;
   text-align: left;
+  padding: .4em .75em .5em;
 }
 
 h2 {
